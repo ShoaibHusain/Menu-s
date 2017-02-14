@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    
+}
+
+body{
+    width: 100%;
+    margin: 0 auto;
+    /*background-image: url("image3.jpg");*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+/*body {
+    width: 100%;
+    margin: 0 auto;
+    }*/
+
+    #menu{
+        overflow: auto;
+        font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+        font-size: 30px;
+        margin: 0;
+        padding: 0;
+        background-color:  indigo;
+        height: 60px;
+        }
+
+        a{
+            display: block;
+            border-radius: 2px;
+            padding: 12px 18px;
+            text-decoration: none;
+            float: left;
+            color: lightblue; 
+            background: indigo;
+        }
+
+        #pic{
+            width: 100%;
+            margin: 0 auto;
+            padding: 0 auto;
+
+        }
